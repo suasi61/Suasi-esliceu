@@ -5,7 +5,7 @@ Ready:
 ## Transició d'estats
 
 imatge
-!["transició processos"](transicio.jpg)
+![transició](../transicio/transicio.jpg)
 
 
 [Readme original](../../README.md)
