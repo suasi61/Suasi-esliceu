@@ -9,8 +9,12 @@ documents, fulls de càlcul i presentacions.
 
 
 
-[Github components dels processos](https://github.com/suasi61/Suasi-esliceu/blob/main/sistemas/Processos/02_components_del_processos.md)
+[components dels processos](02_components_del_processos.md)
 
-[Github estats d'un procés](https://github.com/suasi61/Suasi-esliceu/blob/main/sistemas/Processos/03_estats_d'un_proces.md)
+[estats d'un procés](03_estats_d'un_proces.md)
 
-[Github apuntes](https://github.com/suasi61/Suasi-esliceu/blob/main/sistemas/apuntes.md)
+[apuntes](../apuntes.md)
+
+[Readme](../README.md)
+
+[Readme original](../../README.md)

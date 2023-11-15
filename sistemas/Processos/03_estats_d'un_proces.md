@@ -6,3 +6,6 @@ Ready:
 
 imatge
 !["transició processos"](transicio.jpg)
+
+
+[Readme original](../../README.md)
