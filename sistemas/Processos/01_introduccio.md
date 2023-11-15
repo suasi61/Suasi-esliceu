@@ -18,3 +18,5 @@ documents, fulls de càlcul i presentacions.
 [Readme](../README.md)
 
 [Readme original](../../README.md)
+
+[sistemas operativos](../sistemas)
