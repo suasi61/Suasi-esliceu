@@ -13,4 +13,4 @@ documents, fulls de càlcul i presentacions.
 
 [Github estats d'un procés](https://github.com/suasi61/Suasi-esliceu/blob/main/sistemas/Processos/03_estats_d'un_proces.md)
 
-[Github apuntes](https://github.com/suasi61/Suasi-esliceu/blob/main/sistemas/Processos/apuntes.md)
+[Github apuntes](https://github.com/suasi61/Suasi-esliceu/blob/main/sistemas/apuntes.md)
